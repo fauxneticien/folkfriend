@@ -1,0 +1,7 @@
+title: FolkFriend Documentation
+description: Developer documentation for the FolkFriend folk-music transcription and recognition app.
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

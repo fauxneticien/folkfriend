@@ -1,0 +1,42 @@
+# FolkFriend documentation site
+
+This directory is the source for the FolkFriend developer-documentation
+site, intended to be published via **GitHub Pages**.
+
+## How to enable GitHub Pages for this directory
+
+In the repository settings on GitHub:
+
+1. **Settings → Pages**
+2. **Source:** `Deploy from a branch`
+3. **Branch:** pick the branch you want to publish from (e.g. `master`).
+4. **Folder:** `/docs`
+5. Save.
+
+GitHub will run Jekyll over `docs/` (using `_config.yml` here) and publish
+the rendered Markdown at `https://<owner>.github.io/<repo>/`.
+
+## Local preview
+
+Install the GitHub Pages Jekyll bundle and serve from this directory:
+
+```sh
+gem install bundler jekyll github-pages
+cd docs/
+jekyll serve
+# open http://127.0.0.1:4000
+```
+
+## Pages
+
+- [`index.md`](index.md) — landing page, two-line summary, repo layout.
+- [`architecture.md`](architecture.md) — what runs where, Vue ↔ Worker ↔ WASM.
+- [`audio-preprocessing.md`](audio-preprocessing.md) — the FFT-based
+  feature extractor (the answer to "is there an STFT? does it resample?").
+- [`transcription-model.md`](transcription-model.md) — the lattice
+  decoder, pitch model, and tempo quantiser (the answer to "where are the
+  weights?" — there aren't any).
+- [`tune-matching.md`](tune-matching.md) — n-gram + Needleman-Wunsch
+  search over the thesession.org tune index.
+- [`deployment.md`](deployment.md) — wasm-pack, Vue build, Firebase
+  Hosting, and how Rust talks to JS.
