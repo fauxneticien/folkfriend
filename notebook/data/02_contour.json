@@ -1,0 +1,11 @@
+{
+  "sourceFile": "data/01_decoded-audio.json",
+  "sampleRate": 48000,
+  "specWindowSize": 1024,
+  "numWindows": 435,
+  "contourString": "CxELxvxDCECACCCCACEECACExxvPTEECCCCCEMLxvxxx",
+  "timing": {
+    "feedMs": 52,
+    "transcribeMs": 6
+  }
+}

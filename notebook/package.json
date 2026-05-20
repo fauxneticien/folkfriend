@@ -1,0 +1,18 @@
+{
+  "name": "folkfriend-notebook",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Step-by-step walkthrough of the FolkFriend audio pipeline, exporting each stage's output to data/ and rendering it as an HTML notebook.",
+  "scripts": {
+    "stage:01": "node 01_decode-wav.js",
+    "stage:02": "node 02_transcribe.js",
+    "stage:03": "node 03_contour-to-abc.js",
+    "stage:04": "node 04_query.js",
+    "build": "node build-notebook.js",
+    "all": "node 01_decode-wav.js && node 02_transcribe.js && node 03_contour-to-abc.js && node 04_query.js && node build-notebook.js"
+  },
+  "dependencies": {
+    "folkfriend-wasm": "file:./wasm",
+    "node-web-audio-api": "^1.0.0"
+  }
+}

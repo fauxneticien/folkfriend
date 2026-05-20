@@ -1,0 +1,266 @@
+{
+  "contourString": "CxELxvxDCECACCCCACEECACExxvPTEECCCCCEMLxvxxx",
+  "queryMs": 186,
+  "matches": [
+    {
+      "display_name": "soup dragon, the",
+      "score": 0.5795454382896423,
+      "setting": {
+        "abc": "|: fBB BAB | eff fed | eee e2d | eff ede | \r\nfBB BAB | eff fed | eee f2e | dBA B3 :|\r\n|: faa afd | eff fed | eee e2d | eff ede |\r\n[1 faa afd | eff fed | eee f2e | dBA B3 :|\r\n[2 fBB BAB | eff fed | eee f2e | dBA B3 ||",
+        "contour": "ExxxvxCEEECACCCCCACEECACExxxvxCEEECACCCEECAxvxxxExxxvxCEEECACCCCCACEECACExxxvxCEEECACCCEECAxvxxxEHHHEACEEECACCCCCACEECACEHHHEACEEECACCCEECAxvxxxEHHHEACEEECACCCCCACEECACExxxvxCEEECACCCEECAxvxxx",
+        "dance": "jig",
+        "meter": "6/8",
+        "mode": "Bminor",
+        "tune_id": "10785"
+      },
+      "setting_id": "57001"
+    },
+    {
+      "display_name": "gwrachod llanddona",
+      "score": 0.39772728085517883,
+      "setting": {
+        "abc": "|:A|BcB AFA|B2B BAB|efe dBd|fed B2A|\r\nBcB AFA|B2B BAF|fed Bdf|e3 e2:|\r\n|:f|gfe fed|edB ABd|gfe .f2d|e2e e2f|\r\ngfe fed|edB ABd|.e2g fed|e3 e2 :|",
+        "contour": "vxzxvsvxxxxvxCECAxAECAxxvxzxvsvxxxxvsECAxAECCCCCvxzxvsvxxxxvxCECAxAECAxxvxzxvsvxxxxvsECAxAECCCCCEFECECACAxvxAFECEACCCCCEFECECACAxvxACFECACCCCCEFECECACAxvxAFECEACCCCCEFECECACAxvxACFECACCCCC",
+        "dance": "jig",
+        "meter": "6/8",
+        "mode": "Dmajor",
+        "tune_id": "22416"
+      },
+      "setting_id": "52844"
+    },
+    {
+      "display_name": "glen of aherlow, the",
+      "score": 0.34090909361839294,
+      "setting": {
+        "abc": "B2AF BFAF|E3F EDBd|B2AF BFAF|DFAF FE E2|\r\nB2AF BFAF|E3F EDBA|BE E2 DEFA|BdAF FEFA|\r\nB2AF BFAF|E3F EDBd|B2AF BFAF|DFAF FE E2|\r\nB2 AF B2 AF|EBAF EDBA|BE E2 DEFA|BdAF FE E2||\r\neB B2 efge|f3e defd|eB B2 e2 fe|dBAF Be e2|\r\neB B2 egfe|f3e defd|B3d egfe|dBAF Be e2|\r\neB B2 efge|f3e defd|eB B2 e2 fe|dBAF Be e2|\r\ne2 b2 efga|f3e defd|B3d e2 fe|dBAF Be e2||\r\nB2AF BFAF|E3F EDBD|B2AF BFAF|DFAF FE E2|\r\nB2AF BFAF|E3F EDBA|BE E2 DEFA|BdAF FE E2|\r\nB2 AF B2 AF|EBAF EDBA|B2 AF BFAF|DFEF FE E2|\r\nB2 AF BFAF|EBAF EDBA|BE E2 DEFA|BdAF g3f||\r\neB B2 efga|f3e defd|eB B2 e2 fe|dBAF Be e2|\r\ne2 b2 efga|f3e defd|B3d egfe|dBAF Be e2|\r\neB B2 efga|f3e defd|eB B2 e2 fe|dBAF Be e2|\r\neB B2 efga|f3e defd|B3d e2 fe|dBAF Be e2||\r\nB2 AF BFAF|E3F EDBd|B2 AF BFAF|DFAF FE E2|\r\nB2 B2 B2 AF|EDBA EDFA|BE E2 DEFA|BdAF FE E2|\r\nB2 AF BFAF|e3f edBd|B2 AF BFAF|DFAF FE E2|\r\nB3d BdAF|EDBA EDFA|B2 AF DEFA|BdAF GEEf||\r\ng4 g3a/g/|f4 f3g/f/|eB B2 e2 fe|dBAF Be e2|\r\ne2 b2 efga|f3e defd|B2 Ad egfe|dBAF Be e2|\r\neB B2 gB B2|fB B2 eB B2|eB B2 e2 fe|dBAF b3a/f/|\r\neB B2 efga|z3e defd|B3d e2 fe|dBAF e2 e2||",
+        "contour": "xxvsxsvsqqqsqoxAxxvsxsvsosvssqqqxxvsxsvsqqqsqoxvxqqqoqsvxAvssqsvxxvsxsvsqqqsqoxAxxvsxsvsosvssqqqxxvsxxvsqxvsqoxvxqqqoqsvxAvssqqqCxxxCEFCEEECACEACxxxCCECAxvsxCCCCxxxCFECEEECACEAxxxACFECAxvsxCCCCxxxCEFCEEECACEACxxxCCECAxvsxCCCCCJJCEFHEEECACEAxxxACCECAxvsxCCCxxvsxsvsqqqsqoxoxxvsxsvsosvssqqqxxsxsvsqqqsqoxvxqqqoqsvxAvssqqqxxvsxxvsqxvsqoxvxxvsxsvsosqssqqqxxvsxsvsqxvsqoxvxqqqoqsvxAvsFFFECxxxCEFHEEECACEACxxxCCECAxvsxCCCCCJJCEFHEEECACEAxxxACFECAxvsxCCCCxxxCEFHEEECACEACxxxCCECAxvsxCCCCxxxCEFHEEECACEAxxxACCECAxvsxCCCxxvsxsvsqqqsqoxAxxvsxsvsosvssqqqxxxxxxvsqoxvqosvxqqqoqsvxAvssqqqxxsxsvsCCCECAxAxxvsxsvsosvssqqqxxxAxAvsqoxvqosvxxvsoqsvxAvstqqEFFFFFFFHEEEEEEEFCxxxCCECAxvsxCCCCCJJCEFHEEECACEAxxvACFECAxvsxCCCCxxxFxxxExxxCxxxCxxxCCECAxvsJJJECxxxCEFHCACEAxxxACCECAxvsCCCC",
+        "dance": "reel",
+        "meter": "4/4",
+        "mode": "Edorian",
+        "tune_id": "496"
+      },
+      "setting_id": "13409"
+    },
+    {
+      "display_name": "big john mcneill",
+      "score": 0.34090909361839294,
+      "setting": {
+        "abc": "|:fa2aa2fa|b2a2f2ed|e3fe2de|f2e2d2de|\r\nfa2aa2fa|b2a2f2e2|e3fe2d2|1 B4ABde:|2 B4ABdf||\r\n|:e3fe2de|f2e2d2f2|e3fe2de|fa2a abaf|\r\ne3fe2de|f2e2d2B2|Bd2B BABd|1 edB2ABdf:|2 edB2ABde||",
+        "contour": "EHHHHHEHJJHHEECACCCECCACEECCAAACEHHHHHEHJJHHEECCCCCECCAAxxxxvxACEHHHHHEHJJHHEECACCCECCACEECCAAACEHHHHHEHJJHHEECCCCCECCAAxxxxvxAECCCECCACEECCAAEECCCECCACEHHHHJHECCCECCACEECCAAxxxAAxxvxACAxxvxAECCCECCACEECCAAEECCCECCACEHHHHJHECCCECCACEECCAAxxxAAxxvxACAxxvxAC",
+        "dance": "barndance",
+        "meter": "4/4",
+        "mode": "Amajor",
+        "tune_id": "18931"
+      },
+      "setting_id": "37105"
+    },
+    {
+      "display_name": "dominic macgowan",
+      "score": 0.3295454680919647,
+      "setting": {
+        "abc": "|:Bcd c2A|Bce f3|fed e2 f|fed cBA|\r\nBcd c2A|Bce f3|fed e2 f|dcA B3:|\r\nf3fed|e3ede|f2B Bcd|e2d cBA|\r\nf3fed|e3ede|f2B Bcd|cBA B3|\r\nf3fed|e3ede|f2B Bcd|e2d cBA|\r\nBcd c2A|Bce f3|fed e2 f|dcA B3:|",
+        "contour": "xzAzzvxzCEEEECACCEECAzxvxzAzzvxzCEEEECACCEAzvxxxxzAzzvxzCEEEECACCEECAzxvxzAzzvxzCEEEECACCEAzvxxxEEEECACCCCACEExxzACCAzxvEEEECACCCCACEExxzAzxvxxxEEEECACCCCACEExxzACCAzxvxzAzzvxzCEEEECACCEAzvxxxEEEECACCCCACEExxzACCAzxvEEEECACCCCACEExxzAzxvxxxEEEECACCCCACEExxzACCAzxvxzAzzvxzCEEEECACCEAzvxxx",
+        "dance": "march",
+        "meter": "4/4",
+        "mode": "Bminor",
+        "tune_id": "9995"
+      },
+      "setting_id": "9995"
+    },
+    {
+      "display_name": "king of the mountain",
+      "score": 0.3295454680919647,
+      "setting": {
+        "abc": "|:e4 eede|efff fed2|AB3 BBAB|def2 eed2|\r\ne4 eede|a2f2 fed2|AB3 BBAB|1 def2 eed2:|2 def2 edcd||\r\n|:B4 BBAB|def2 eed2|e4 eede|efaa abaf|g2gf d2a2-|\r\naggf gfd2|1 ABde efed-|deee efed:|2 ABde f2d2-|dABd fedf||",
+        "contour": "CCCCCCACCEEEECAAvxxxxxvxACEECCAACCCCCCACHHEEECAAvxxxxxvxACEECCAACCCCCCACCEEEECAAvxxxxxvxACEECCAACCCCCCACHHEEECAAvxxxxxvxACEECAzAxxxxxxvxACEECCAACCCCCCACCEHHHJHEFFFEAAHHHFFEFEAAvxACCECAACCCCECAxxxxxxvxACEECCAACCCCCCACCEHHHJHEFFFEAAHHHFFEFEAAvxACEEAAAvxAECAE",
+        "dance": "reel",
+        "meter": "4/4",
+        "mode": "Dmajor",
+        "tune_id": "20811"
+      },
+      "setting_id": "41328"
+    },
+    {
+      "display_name": "toss the feathers",
+      "score": 0.3295454680919647,
+      "setting": {
+        "abc": "|:\"Em\"EBB2 dBB2|\"Em\"EBBA \"D\"FEFA|\"Em\"BE E2 B3d|\"C\"egfe \"D\"dBAF|\r\n\"Em\"EBB2 dBB2|\"Em\"EBBA \"D\"FEFA|\"Em\"BE E2 B3d|\"C\"egfe \"D\"dBBA||\r\n\"Em\"Beed e2 de|\"D\"fede \"Bm\"fe e2|\"Em\"febe febe|\"D\"fede \"Bm\"fe e2|\r\n\"Em\"Beed e2 de|\"D\"fede fa a2|\"G\"b3f \"D\"a3f|\"C\"egfe \"Bm\"dBAF:|",
+        "contour": "qxxxAxxxqxxvsqsvxqqqxxxACFECAxvsqxxxAxxxqxxvsqsvxqqqxxxACFECAxxvxCCACCACECACECCCECJCECJCECACECCCxCCACCACECACEHHHJJJEHHHECFECAxvsqxxxAxxxqxxvsqsvxqqqxxxACFECAxvsqxxxAxxxqxxvsqsvxqqqxxxACFECAxxvxCCACCACECACECCCECJCECJCECACECCCxCCACCACECACEHHHJJJEHHHECFECAxvs",
+        "dance": "reel",
+        "meter": "4/4",
+        "mode": "Edorian",
+        "tune_id": "113"
+      },
+      "setting_id": "43560"
+    },
+    {
+      "display_name": "gan ainm",
+      "score": 0.3295454680919647,
+      "setting": {
+        "abc": "|:f2 f efg|fed B2A|FAA GAB|f2f ede|\r\nf2 f efg|fed B2A|FAA GAB|edc d3:|\r\n|:B2B Bde|faa fed|e2e fed|Bde fed|\r\nB2B Bde|faa fed|e2e fed|B2A B3:|",
+        "contour": "EEECEFECAxxvsvvtvxEEECACEEECEFECAxxvsvvtvxCAzAAAEEECEFECAxxvsvvtvxEEECACEEECEFECAxxvsvvtvxCAzAAAxxxxACEHHECACCCECAxACECAxxxxACEHHECACCCECAxxvxxxxxxxACEHHECACCCECAxACECAxxxxACEHHECACCCECAxxvxxx",
+        "dance": "jig",
+        "meter": "6/8",
+        "mode": "Dmajor",
+        "tune_id": "9477"
+      },
+      "setting_id": "9477"
+    },
+    {
+      "display_name": "marc-antoine bérubé's",
+      "score": 0.3295454680919647,
+      "setting": {
+        "abc": "|: f2Bf gfed | fBBc defd | e2ef gfec | defg fede |\r\nf2Bf gfed | fBBc defd | e2ef gfec |1 fcec B3e :|2 fcec B3f ||\r\n|: g2gf gfeg | fgfe defd | e2ef gfec | defg fdef |\r\ng2gf gfeg | fgfe defd | e2ef gfec |1 fcec B3f :|2 fcec B3e ||",
+        "contour": "EExEFECAExxzACEACCCEFECzACEFECACEExEFECAExxzACEACCCEFECzEzCzxxxCEExEFECAExxzACEACCCEFECzACEFECACEExEFECAExxzACEACCCEFECzEzCzxxxEFFFEFECFEFECACEACCCEFECzACEFEACEFFFEFECFEFECACEACCCEFECzEzCzxxxEFFFEFECFEFECACEACCCEFECzACEFEACEFFFEFECFEFECACEACCCEFECzEzCzxxxC",
+        "dance": "reel",
+        "meter": "4/4",
+        "mode": "Bminor",
+        "tune_id": "24288"
+      },
+      "setting_id": "50491"
+    },
+    {
+      "display_name": "bedford cross",
+      "score": 0.3181818127632141,
+      "setting": {
+        "abc": "|:e2e ede f2e d2f|efd edB A2A ABd|\r\ne2e ede f2e d2f|efd edB ABA d3:|\r\n|:a2f ede f2e d2f|efd edB A2A ABd|\r\n[1 a2f ede f2e d2f|efd edB ABA d3:|\r\n[2 e2e ede f2e d2f|efd edB ABA d3||",
+        "contour": "CCCCACEECAAECEACAxvvvvxACCCCACEECAAECEACAxvxvAAACCCCACEECAAECEACAxvvvvxACCCCACEECAAECEACAxvxvAAAHHECACEECAAECEACAxvvvvxAHHECACEECAAECEACAxvxvAAAHHECACEECAAECEACAxvvvvxACCCCACEECAAECEACAxvxvAAA",
+        "dance": "slide",
+        "meter": "12/8",
+        "mode": "Adorian",
+        "tune_id": "7444"
+      },
+      "setting_id": "33752"
+    },
+    {
+      "display_name": "mccoppin's",
+      "score": 0.3181818127632141,
+      "setting": {
+        "abc": "|: DEBE GEBE | DEBE dEcE | DEBE GEBE | DFAD BDAF | \r\nDEBE GEBE | DEBE dEcE | ABeB dBeB | dBAG E4 :| \r\n|: efge fedf | efed ABed | efge fedB | ABed e4 :| \r\n|: efed B2 A2 | B2 eB fBeB | efed B2 A2 | Beed e4 :| \r\n|: Bdef e2 ge | beae gfed | Bded e2 ef | gefd e4 :| \r\n|: gfed BAeA | dAeA dBAB | gfed BAeA | dBAd e4 :|",
+        "contour": "oqxqtqxqoqxqAqzqoqxqtqxqosvoxovsoqxqtqxqoqxqAqzqvxCxAxCxAxvtqqqqoqxqtqxqoqxqAqzqoqxqtqxqosvoxovsoqxqtqxqoqxqAqzqvxCxAxCxAxvtqqqqCEFCECAECECAvxCACEFCECAxvxCACCCCCEFCECAECECAvxCACEFCECAxvxCACCCCCECAxxvvxxCxExCxCECAxxvvxCCACCCCCECAxxvvxxCxExCxCECAxxvvxCCACCCCxACECCFCJCHCECAxACACCCEFCEACCCCxACECCFCJCHCFECAxACACCCEFCEACCCCFECAxvCvAvCvAxvxFECAxvCvAxvACCCCFECAxvCvAvCvAxvxFECAxvCvAxvACCCC",
+        "dance": "reel",
+        "meter": "4/4",
+        "mode": "Dmajor",
+        "tune_id": "24407"
+      },
+      "setting_id": "50750"
+    },
+    {
+      "display_name": "up in the air",
+      "score": 0.3181818127632141,
+      "setting": {
+        "abc": "|:Bee ede|fef dBA|Bee ede|fed e2d|\r\nBee ede|f2f def|gab afd|1 Bee e2d:|2 Bee e2f||\r\n|:g2g aga|bge ede|gfg aga|bge e2f|\r\ngfg aga|bc'b afd|bbb afd|1 Bee e2e:|2 Bed e2d||",
+        "contour": "xCCCACECEAxvxCCCACECACCAxCCCACEEEACEFHJHEAxCCCCAxCCCACECEAxvxCCCACECACCAxCCCACEEEACEFHJHEAxCCCCEFFFHFHJFCCACFEFHFHJFCCCEFEFHFHJKJHEAJJJHEAxCCCCCFFFHFHJFCCACFEFHFHJFCCCEFEFHFHJKJHEAJJJHEAxCACCA",
+        "dance": "jig",
+        "meter": "6/8",
+        "mode": "Eminor",
+        "tune_id": "894"
+      },
+      "setting_id": "53073"
+    },
+    {
+      "display_name": "jig for jules",
+      "score": 0.3181818127632141,
+      "setting": {
+        "abc": "|:F2A AFE|EDF A (3Bcd|ede fdA|(3Bcd B AFE|\r\nF2A AFE|EDF A (3Bcd|efg fed|BAF E3:|\r\n|:e3ede|fed (3Bcd B|ABd ede|faf edB|\r\ne3ede|fed efg|agf edc|1 BGE A(3Bcd:|2 BGE A3||",
+        "contour": "ssvvsqqosvxzCACEAvxzxvsqssvvsqqosvxzCEFECAxvsqqqssvvsqqosvxzCACEAvxzxvsqssvvsqqosvxACEFECAxvsqqqCCCCACECAxAxvxACACEHECAxCCCCACECACEFHFECAzxtqvxACCCCACECAxAxvxACACEHECAxCCCCACECACEFHFECAzxtqvvv",
+        "dance": "jig",
+        "meter": "6/8",
+        "mode": "Dmajor",
+        "tune_id": "16022"
+      },
+      "setting_id": "30199"
+    },
+    {
+      "display_name": "leslie's march",
+      "score": 0.3181818127632141,
+      "setting": {
+        "abc": "|:d3 d3|dcB ABc|dcB ABc|def efd|\r\ne3 ede|fed eag|fed BAB|1 def e3:|2 def efd||\r\n|:fed eAA|fed eAA|gfe fBB|gfe fBB|\r\nfed eAA|fed eag|fed BAB|1 def efd:|2 def e3||",
+        "contour": "AAAAAAAzxvxzAzxvxzACECEACCCCACECACHFECAxvxACECCCAAAAAAAzxvxzAzxvxzACECEACCCCACECACHFECAxvxACECEAECACvvECACvvFECExxFECExxECACvvECACHFECAxvxACECEAECACvvECACvvFECExxFECExxECACvvECACHFECAxvxACECCC",
+        "dance": "jig",
+        "meter": "6/8",
+        "mode": "Dmajor",
+        "tune_id": "987"
+      },
+      "setting_id": "36455"
+    },
+    {
+      "display_name": "april storm",
+      "score": 0.3181818127632141,
+      "setting": {
+        "abc": "|:e2 e2 B/c/d|e2 e2 de|fgf edB|fgf edB|\r\ne2 e2 B/c/d|e2 e2 ef|gfe dcB|1 AGF E2d:|2 AGF E2D||\r\n|:E2E FED|EFA B2c|d2d ABd|BdB A2F|\r\nE2E FED|EFA B2f|gfe dcB|1 AGF E2D:|2 AGF E2d||",
+        "contour": "CCCCxACCCCACEFECAxEFECAxCCCCxACCCCCEFECAzxvtsqqACCCCxACCCCACEFECAxEFECAxCCCCxACCCCCEFECAzxvtsqqoqqqsqoqsvxxzAAAvxAxAxvvsqqqsqoqsvxxEFECAzxvtsqqoqqqsqoqsvxxzAAAvxAxAxvvsqqqsqoqsvxxEFECAzxvtsqqA",
+        "dance": "jig",
+        "meter": "6/8",
+        "mode": "Edorian",
+        "tune_id": "17691"
+      },
+      "setting_id": "34955"
+    },
+    {
+      "display_name": "southern cross",
+      "score": 0.3181818127632141,
+      "setting": {
+        "abc": "|:BGD E2D|DEG {B}AGE|BGD EDE|GAB c2d|\r\nBGD ~E2D|DEG {B}AGE|F/G/ AB {B}cBA|GED E3:|\r\nee/e/e efg|fed ed B|e/ e/ ee efg|fed e2B|\r\nee/e/e efg|age edB|dBA ABd|ezg fed|\r\nee/e/e efg|fed ed B|e/ e/ ee efg|fed e2B|\r\ne/e/ee efg|age edB|dBA ABd|e2z edc|",
+        "contour": "xtoqqooqtxtqxtoqoqtvxyyAxtosqqoqtxtqsvxxxvtqoqqqxtoqqooqtxtqxtoqoqtvxyyAxtoqqooqtvtqsvxyxvtqoqqqCCCCEFECACAxCCCCEFECACCxCCCCEFHFCCAxAxvvxACFECACCCCEFECACAxCCCCEFECACCxCCCCEFHFCCAxAxvvxACCCAy",
+        "dance": "jig",
+        "meter": "6/8",
+        "mode": "Gmajor",
+        "tune_id": "6700"
+      },
+      "setting_id": "6700"
+    },
+    {
+      "display_name": "christmas slippers",
+      "score": 0.3068181872367859,
+      "setting": {
+        "abc": "|:DFA ABF AFE|DFA ABF A2d|B3BAB dBA|B3 BAF E2F|\r\nDFA ABF AFE|DFA ABF Adc|B3 BAB def|1 e3 edc dAF :|2 e3 edc d2f||\r\n|:e3 ede fed| B3 BAB def|B3 BAB def|{e}f3e2 defa|\r\ne3 ede fed| B3 BAB def|B3 BAB def|1 e3edc d2f:|2 e3 edc d3||",
+        "contour": "osvvxsvsqosvvxsvvAxxxxvxAxvxxxxvsqqsosvvxsvsqosvvxsvAzxxxxvxACECCCCAzAvsosvvxsvsqosvvxsvvAxxxxvxAxvxxxxvsqqsosvvxsvsqosvvxsvAzxxxxvxACECCCCAzAAECCCCACECAxxxxvxACExxxxvxACEEEECCACEHCCCCACECAxxxxvxACExxxxvxACECCCCAzAAECCCCACECAxxxxvxACExxxxvxACEEEECCACEHCCCCACECAxxxxvxACExxxxvxACECCCCAzAAA",
+        "dance": "slip jig",
+        "meter": "9/8",
+        "mode": "Dmajor",
+        "tune_id": "25183"
+      },
+      "setting_id": "52929"
+    },
+    {
+      "display_name": "murty's",
+      "score": 0.3068181872367859,
+      "setting": {
+        "abc": "|: A2e ede fed e3 | A2e ede fed B3 |\r\nA2e ede fed efg | agf gfe fed B3 :|\r\n|: agf gfe fed efg | agf gfe fed B3 |\r\nagf gfe fed efg | agf gfe fed B3 :|",
+        "contour": "vvCCACECACCCvvCCACECAxxxvvCCACECACEFHFEFECECAxxxvvCCACECACCCvvCCACECAxxxvvCCACECACEFHFEFECECAxxxHFEFECECACEFHFEFECECAxxxHFEFECECACEFHFEFECECAxxxHFEFECECACEFHFEFECECAxxxHFEFECECACEFHFEFECECAxxx",
+        "dance": "slide",
+        "meter": "12/8",
+        "mode": "Adorian",
+        "tune_id": "25601"
+      },
+      "setting_id": "54208"
+    },
+    {
+      "display_name": "bill harte's",
+      "score": 0.3068181872367859,
+      "setting": {
+        "abc": "|:ABA e2e|fed efe|ABA e2e|fed BdB|\r\nABA e2e|fed efg|a2f gfe|1 fed BdB:|2 fed B2A||\r\n|:a2f gfe|fed efg|a2f gfe|fed B2A|\r\nagf gfe|fed efg|aba g2e|1 fed B2A:|2 fed BdB||",
+        "contour": "vxvCCCECACECvxvCCCECAxAxvxvCCCECACEFHHEFECECAxAxvxvCCCECACECvxvCCCECAxAxvxvCCCECACEFHHEFECECAxxvHHEFECECACEFHHEFECECAxxvHFEFECECACEFHJHFFCECAxxvHHEFECECACEFHHEFECECAxxvHFEFECECACEFHJHFFCECAxAx",
+        "dance": "jig",
+        "meter": "6/8",
+        "mode": "Amixolydian",
+        "tune_id": "2788"
+      },
+      "setting_id": "16010"
+    },
+    {
+      "display_name": "seamus cooley's",
+      "score": 0.3068181872367859,
+      "setting": {
+        "abc": "|:fef d2B|ABA ABd|~e3 edB|efe ede|\r\nfef d2B|ABA ABd|e3 ede|f2e d2e:|\r\n|:fef a2f|fef a2f|efe edB|efe ede|\r\n[1 fef a2f|fef a2f|efe ede|f2e d2e:|\r\n[2 fef d2B|ABA ABd|e3 ede|f2e d2e|",
+        "contour": "ECEAAxvxvvxACEACAxCECCACECEAAxvxvvxACCCCACEECAACECEAAxvxvvxACEACAxCECCACECEAAxvxvvxACCCCACEECAACECEHHEECEHHECECCAxCECCACECEHHEECEHHECECCACEECAACECEHHEECEHHECECCAxCECCACECEAAxvxvvxACCCCACEECAAC",
+        "dance": "jig",
+        "meter": "6/8",
+        "mode": "Dmajor",
+        "tune_id": "414"
+      },
+      "setting_id": "2061"
+    }
+  ]
+}
