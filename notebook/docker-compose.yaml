@@ -1,0 +1,27 @@
+# Run the FolkFriend pipeline inside a container. Outputs land on the host
+# in notebook/data/ (including notebook.html). The tune index is cached in
+# a named volume so it isn't redownloaded on every run.
+#
+# Usage:
+#   docker compose -f notebook/docker-compose.yaml run --rm notebook
+#
+# To process a different WAV, drop it in notebook/ and uncomment the
+# input.wav bind mount below.
+
+services:
+  notebook:
+    build:
+      context: ..
+      dockerfile: notebook/Dockerfile
+    image: folkfriend-notebook
+    volumes:
+      # Stage outputs (data/*.json, data/03_abc.txt, data/notebook.html)
+      # land on the host here.
+      - ./data:/app/data
+      # Persist the 32 MB tune-index download across runs.
+      - tune-index-cache:/app/cache
+      # Uncomment to swap the default sample for your own file:
+      # - ./input.wav:/app/input.wav:ro
+
+volumes:
+  tune-index-cache:

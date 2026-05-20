@@ -13,7 +13,7 @@ const https = require('https');
 const wasm = require('./wasm/folkfriend.js');
 
 const TUNE_INDEX_URL = 'https://folkfriend-app-data.web.app/folkfriend-non-user-data.json';
-const TUNE_INDEX_PATH = path.join(__dirname, 'tune-index.json');
+const TUNE_INDEX_PATH = process.env.TUNE_INDEX_PATH || path.join(__dirname, 'tune-index.json');
 
 function download(url, destPath) {
     return new Promise((resolve, reject) => {

@@ -21,6 +21,20 @@ Mirrors the browser pipeline in `app/src/services/audio.js` and
 Stages 03 and 04 both consume `data/02_contour.json` (parallel branches, just
 like the Vue app's ABC view vs. search results).
 
+## Docker (no local Rust/Node needed)
+
+```bash
+# From the repo root
+docker compose -f notebook/docker-compose.yaml run --rm notebook
+```
+
+This builds the WASM, installs npm deps, and runs all four stages. Outputs
+land in `notebook/data/` on the host (including `data/notebook.html`). The
+32 MB tune index is cached in a named volume so it's only downloaded once.
+
+To process a different WAV, drop it next to `docker-compose.yaml` as
+`input.wav` and uncomment the bind mount in the compose file.
+
 ## One-time setup
 
 ```bash
