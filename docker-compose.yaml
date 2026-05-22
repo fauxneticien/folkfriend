@@ -1,0 +1,15 @@
+services:
+  folkfriend:
+    build: .
+    working_dir: /app/rust
+    volumes:
+      - ./:/app
+      - cargo-registry:/usr/local/cargo/registry
+      - cargo-target:/app/rust/target
+      - folkfriend-cache:/root/.folkfriend
+    command: cargo run -- query wavs/soup_dragon.wav
+
+volumes:
+  cargo-registry:
+  cargo-target:
+  folkfriend-cache:
