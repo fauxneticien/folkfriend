@@ -7,7 +7,9 @@ services:
       - cargo-registry:/usr/local/cargo/registry
       - cargo-target:/app/rust/target
       - folkfriend-cache:/root/.folkfriend
-    command: cargo run -- query wavs/soup_dragon.wav
+    # Run cargo commands explicitly, e.g.:
+    #   docker compose run --rm folkfriend cargo run -- query wavs/your_file.wav
+    command: sleep infinity
 
 volumes:
   cargo-registry:
